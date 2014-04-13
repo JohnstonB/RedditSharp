@@ -1,4 +1,4 @@
-# RedditSharp
+# RedditSharp - Windows Phone Version
 
 A partial implementation of the [Reddit](http://reddit.com) API. Includes support for many API endpoints, as well as
 LINQ-style paging of results.
